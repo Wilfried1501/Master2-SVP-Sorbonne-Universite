@@ -1,2 +1,2 @@
 # Master2-SVP-Sorbonne-Universite
-SVP 
+TME DE SVP
